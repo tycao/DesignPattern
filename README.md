@@ -1,3 +1,3 @@
-Design Pattern using C++
+Design Pattern implemented by C++
 ================
-设计模式的C++实现
+## 设计模式的C++实现
