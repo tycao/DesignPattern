@@ -1,0 +1,4 @@
+#ifndef GENMACHINECODE_H
+#define GENMACHINECODE_H
+
+#endif // GENMACHINECODE_H
